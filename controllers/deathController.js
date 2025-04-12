@@ -1,4 +1,3 @@
-// Placeholder - Verify death and trigger post-death actions
 import {User} from '../models/user';
 import{Verification} from '../models/Verification';
 
