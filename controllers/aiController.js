@@ -1,4 +1,4 @@
-// Placeholder - shutdown AI companion
+
 import {AICompanion} from '../models/AIcompanion';
 exports.shutdownAI = async (req, res) => {
   const ai = await AICompanion.findOneAndUpdate(
